@@ -6,8 +6,7 @@ Soy un programador junior con grandes sueños y metas claras. Me apasiona el des
 soy un programador frontend  
 
 # GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=ricardddcode&theme=dark&hide_border=true&locale=es&short_numbers=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Narizaico-code&theme=synthwave)](https://git.io/streak-stats)
 
 ###  Tecnologías y Herramientas
 
